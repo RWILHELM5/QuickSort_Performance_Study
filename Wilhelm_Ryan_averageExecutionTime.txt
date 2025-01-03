@@ -1,0 +1,4 @@
+Input Size	Average Execution Time (seconds)
+10	9.60e-07
+100	1.04e-05
+1000	1.52e-04
